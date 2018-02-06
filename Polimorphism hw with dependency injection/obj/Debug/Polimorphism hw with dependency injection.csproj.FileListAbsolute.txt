@@ -1,0 +1,6 @@
+C:\Projects\VisualStudio\C#\Polimorphism hw with dependency injection\Polimorphism hw with dependency injection\bin\Debug\Polimorphism hw with dependency injection.exe
+C:\Projects\VisualStudio\C#\Polimorphism hw with dependency injection\Polimorphism hw with dependency injection\bin\Debug\Polimorphism hw with dependency injection.pdb
+C:\Projects\VisualStudio\C#\Polimorphism hw with dependency injection\Polimorphism hw with dependency injection\obj\Debug\Polimorphism hw with dependency injection.csprojResolveAssemblyReference.cache
+C:\Projects\VisualStudio\C#\Polimorphism hw with dependency injection\Polimorphism hw with dependency injection\obj\Debug\Polimorphism hw with dependency injection.csproj.CoreCompileInputs.cache
+C:\Projects\VisualStudio\C#\Polimorphism hw with dependency injection\Polimorphism hw with dependency injection\obj\Debug\Polimorphism hw with dependency injection.exe
+C:\Projects\VisualStudio\C#\Polimorphism hw with dependency injection\Polimorphism hw with dependency injection\obj\Debug\Polimorphism hw with dependency injection.pdb
